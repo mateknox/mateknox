@@ -1,4 +1,4 @@
-# mateknox, DevOps engineer
+# mateknox
 
 ### ☎️  Contacts
 - **Telegram**: [@mateknox](https://t.me/mateknox)
